@@ -7,6 +7,7 @@ https://car-sales-tybm.onrender.com/docs
 We only have 3 functions you can get data from:
 
 /get_cheapest_car/manufacturer
+
     """
     This function will give you the cheapest car (no truck/suv) available from selected manufacture.
 
@@ -18,6 +19,7 @@ We only have 3 functions you can get data from:
     """
 
 get_faster_car/model/horsepower
+
     """
     This function will give you a dictionary of the top 5 faster cars (no truck/suv)
     than the one you have. We are going to use the horsepower in case your model
@@ -31,6 +33,7 @@ get_faster_car/model/horsepower
     """
     
 get_top_sold/manufacturer
+
     """
     This function will give you the top 5 most sold cars, trucks or SUVs by a manufacturer.
 
